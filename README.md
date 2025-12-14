@@ -1,7 +1,7 @@
 # 🏥 Hospital Network Management System (Cisco Packet Tracer)
 
 <div align="center">
-  <img src="Image/hospital_network.png" alt="Hospital Network Logo" width="300">
+  <img src="hospital logo.png" alt="Hospital Network Logo" width="300">
 </div>
 
 <p align="center">
