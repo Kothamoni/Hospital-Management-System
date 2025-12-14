@@ -1,5 +1,5 @@
 🏥 Hospital Network Management System (Cisco Packet Tracer)
-<div align="center"> <img src="Image/logo.png" alt="Hospital Network Logo" width="300"> </div>
+<div align="center"> <img src="hospital logo.png" alt="Hospital Network Logo" width="300"> </div>
 
 A simulated hospital network infrastructure implemented using Cisco Packet Tracer. This project demonstrates hierarchical network design, inter-VLAN communication, routing, security, and VPN connectivity between Headquarters (HQ) and a Branch Office.
 
